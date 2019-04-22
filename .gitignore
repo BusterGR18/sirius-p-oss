@@ -121,3 +121,6 @@ kernel/configs/android-*.cfg
 
 #techpack/audio/
 techpack/audio/
+
+output/
+ca.sh
